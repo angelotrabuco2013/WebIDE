@@ -1,3 +1,5 @@
+This repository will be kept for archival purposes only.
+
 # WebIDE
 
 | Home         | [Plain](PLAIN.md) | [VSCode](VSCODE.md) | [Codenvy](CODENVY.md) | [Try](https://josephworks-webide-nuyvqdtvvc.now.sh/) | [About](ABOUT.md) | [STEM Presentation](stem/START.md) |
